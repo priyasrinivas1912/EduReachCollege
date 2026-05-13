@@ -1,0 +1,11 @@
+{
+  "name": "edureach-workspace",
+  "private": true,
+  "scripts": {
+    "dev:server": "npm --prefix .\\EduReachCollegeChatBot-master\\edureach-agentic-colleage-chatbot\\server run dev",
+    "start:server": "npm --prefix .\\EduReachCollegeChatBot-master\\edureach-agentic-colleage-chatbot\\server run start",
+    "dev": "npm --prefix .\\EduReachCollegeChatBot-master\\edureach-agentic-colleage-chatbot\\client\\edureach-platform run dev",
+    "dev:client": "npm --prefix .\\EduReachCollegeChatBot-master\\edureach-agentic-colleage-chatbot\\client\\edureach-platform run dev",
+    "build": "npm --prefix .\\EduReachCollegeChatBot-master\\edureach-agentic-colleage-chatbot\\client\\edureach-platform run build"
+  }
+}
